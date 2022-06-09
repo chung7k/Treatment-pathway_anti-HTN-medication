@@ -1,0 +1,1017 @@
+"domain","concept_id","concept_name","cond","drug_comb","cov_cond","cov_drug","exclude","meas","factor_con","factor_drug"
+condition,320128,Essential hypertension,htn,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+condition,4028741,Benign hypertension,htn,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+condition,316866,Hypertensive disorder,htn,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1363058,Doxazosin 2 MG Oral Tablet,NULL,others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1363059,Doxazosin 4 MG Oral Tablet,NULL,others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1341271,Terazosin 2 MG Oral Tablet,NULL,others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079718,Terazosin 5 MG Oral Tablet,NULL,others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19074672,Captopril 12.5 MG Oral Tablet,NULL,acei,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1340161,Captopril 25 MG Oral Tablet,NULL,acei,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19074673,Captopril 50 MG Oral Tablet,NULL,acei,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40165789,Enalapril Maleate 5 MG Oral Tablet,NULL,acei,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40165762,Enalapril Maleate 10 MG Oral Tablet,NULL,acei,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163271,Perindopril Erbumine 4 MG Oral Tablet,NULL,acei,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163275,Perindopril Erbumine 8 MG Oral Tablet,NULL,acei,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1334461,Ramipril 2.5 MG Oral Tablet,NULL,acei,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1334492,Ramipril 5 MG Oral Tablet,NULL,acei,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19102170,Ramipril 10 MG Oral Tablet,NULL,acei,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,Candesartan cilexetil 8 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,Candesartan cilexetil 16 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351587,Candesartan cilexetil 32 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19076924,eprosartan 600 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022948,Irbesartan 150 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022949,Irbesartan 300 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40185304,Losartan Potassium 50 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40185276,Losartan Potassium 100 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19102171,Olmesartan medoxomil 10 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19096740,Olmesartan medoxomil 20 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19096752,Olmesartan medoxomil 40 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028935,Telmisartan 40 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028936,Telmisartan 80 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,Valsartan 80 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19096678,Valsartan 160 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19096677,Valsartan 320 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,41080575,Amlodipine / Losartan Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,43749671,Amlodipine / candesartan Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,21141332,Amlodipine 5 MG / Valsartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332527,Amlodipine 5 MG / Valsartan 160 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332525,Amlodipine 10 MG / Valsartan 160 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40167838,Amlodipine / telmisartan Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40167849,Amlodipine 5 MG / Telmisartan 40 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40167852,Amlodipine 5 MG / Telmisartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40167843,Amlodipine 10 MG / telmisartan 40 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19127433,Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19127434,Amlodipine 5 MG / Olmesartan medoxomil 40 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19127432,Amlodipine 10 MG / Olmesartan medoxomil 40 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40224172,Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40224175,Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 40 MG Oral Tablet,NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40224166,Amlodipine 10 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 40 MG Oral Tablet,NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2064532,amlodipine 5 MG / rosuvastatin 5 MG / telmisartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2064498,amlodipine 5 MG / rosuvastatin 10 MG / telmisartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2064586,amlodipine 5 MG / rosuvastatin 5 MG / telmisartan 40 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969118,Amlodipine 5 MG / Losartan 50 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969109,Amlodipine 5 MG / Losartan 100 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969112,Amlodipine 5 MG / Losartan 50 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969102,Amlodipine 5 MG / Losartan 100 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969106,Amlodipine 5 MG / Losartan 100 MG / rosuvastatin 20 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969115,Amlodipine 5 MG / Losartan 50 MG / rosuvastatin 20 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2064553,amlodipine 5 MG / rosuvastatin 10 MG / telmisartan 40 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2064463,amlodipine 10 MG / rosuvastatin 20 MG / telmisartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2063242,amlodipine 5 MG / olmesartan 20 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2064463,amlodipine 10 MG / rosuvastatin 20 MG / telmisartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969106,Amlodipine 5 MG / Losartan 100 MG / rosuvastatin 20 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969115,Amlodipine 5 MG / Losartan 50 MG / rosuvastatin 20 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40184187,Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40184184,Hydrochlorothiazide 12.5 MG / Losartan Potassium 100 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40184217,Hydrochlorothiazide 25 MG / Losartan Potassium 100 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078080,Hydrochlorothiazide 12.5 MG / Irbesartan 150 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078101,Hydrochlorothiazide 12.5 MG / Irbesartan 300 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,Candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19023453,Hydrochlorothiazide 12.5 MG / Valsartan 80 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19023454,Hydrochlorothiazide 12.5 MG / Valsartan 160 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974473,Hydrochlorothiazide 12.5 MG / Telmisartan 40 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974474,Hydrochlorothiazide 12.5 MG / Telmisartan 80 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19102491,Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974642,Eprosartan 600 MG / Hydrochlorothiazide 12.5 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969008,candesartan 8 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42968981,candesartan 8 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42968999,candesartan 16 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42968990,candesartan 32 MG / rosuvastatin 20 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969040,rosuvastatin 10 MG / telmisartan 40 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969022,rosuvastatin 10 MG / telmisartan 80 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969067,rosuvastatin 5 MG / telmisartan 40 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969058,rosuvastatin 5 MG / telmisartan 80 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969049,rosuvastatin 20 MG / telmisartan 40 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969031,rosuvastatin 20 MG / telmisartan 80 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42932541,pitavastatin 2 MG / valsartan 80 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,46275725,sacubitril 24 MG / valsartan 26 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42932547,pitavastatin 2 MG / valsartan 160 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,46275732,sacubitril 49 MG / valsartan 51 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42932538,pitavastatin 4 MG / valsartan 80 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42932544,pitavastatin 4 MG / valsartan 160 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,46275809,sacubitril 97 MG / valsartan 103 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969082,rosuvastatin 10 MG / valsartan 80 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42969085,rosuvastatin 10 MG / valsartan 160 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2063264,amlodipine 5 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2063256,amlodipine 5 MG / rosuvastatin 20 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19018811,Atenolol 25 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1314008,Atenolol 50 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40166187,Bisoprolol Fumarate 1.25 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40166188,Bisoprolol Fumarate 2.5 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40162878,Bisoprolol Fumarate 5 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40162867,Bisoprolol Fumarate 10 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42800549,Betaxolol Hydrochloride 20 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19011443,Metoprolol 95 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40167202,Metoprolol Tartrate 100 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19019238,Nadolol 40 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163312,Propranolol Hydrochloride 10 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163342,Propranolol Hydrochloride 40 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346823,carvedilol,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346990,Carvedilol 3.125 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,Carvedilol 6.25 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022750,Carvedilol 12.5 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022781,Carvedilol 25 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40022801,Carteolol Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,nebivolol 5 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2065490,nebivolol 2.5 MG / rosuvastatin 10 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2065486,nebivolol 5 MG / rosuvastatin 10 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19073094,Amlodipine 2.5 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,Amlodipine 5 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19073093,Amlodipine 10 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,42950300,Diltiazem 50 MG Injection,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,Diltiazem Hydrochloride 30 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19133621,Diltiazem Hydrochloride 90 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19133570,"24 HR Diltiazem Hydrochloride 180 MG Extended Release Oral Capsule",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1326014,Isradipine 5 MG Oral Capsule,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1353816,Felodipine 2.5 MG,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1353817,Felodipine 5 MG,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,21030573,Nicardipine 1 MG/ML Injection,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40165082,Nicardipine hydrochloride 20 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1318859,Nifedipine 5 MG Oral Capsule,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101807,Nifedipine 30 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40990862,Nifedipine 40 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101798,Nifedipine 60 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19107812,Nisoldipine 10 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,41178428,Nisoldipine 20 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101835,Verapamil 180 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40171905,Verapamil hydrochloride 40 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40171917,Verapamil hydrochloride 80 MG Oral Tablet,NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2063260,amlodipine 5 MG / rosuvastatin 10 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,1332497,Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,19122209,Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,1332499,Amlodipine 5 MG / Atorvastatin 40 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,1332494,Amlodipine 10 MG / Atorvastatin 20 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,19078106,Hydrochlorothiazide 25 MG Oral Tablet,NULL,du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,Indapamide 1.5 MG,NULL,du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,978557,Indapamide 2.5 MG Oral Tablet,NULL,du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,907020,Metolazone 5 MG Oral Tablet,NULL,du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,907015,Metolazone 10 MG Oral Tablet,NULL,du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40177829,Amiloride Hydrochloride 5 MG Oral Tablet,NULL,du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,Furosemide 40 MG Oral Tablet,NULL,du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,35603226,"2 ML Furosemide 10 MG/ML Injection",NULL,du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079658,Spironolactone 25 MG Oral Tablet,NULL,du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet,NULL,du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,2063246,amlodipine 5 MG / olmesartan 20 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2064553,amlodipine 5 MG / rosuvastatin 10 MG / telmisartan 40 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969058,rosuvastatin 5 MG / telmisartan 80 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969067,rosuvastatin 5 MG / telmisartan 40 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,1332494,Amlodipine 10 MG / atorvastatin 20 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2064498,amlodipine 5 MG / rosuvastatin 10 MG / telmisartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42972640,atorvastatin 20 MG / irbesartan 150 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969126,olmesartan 10 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42932538,pitavastatin 4 MG / valsartan 80 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969031,rosuvastatin 20 MG / telmisartan 80 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969049,rosuvastatin 20 MG / telmisartan 40 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969082,rosuvastatin 10 MG / valsartan 80 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969085,rosuvastatin 10 MG / valsartan 160 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42972631,atorvastatin 10 MG / irbesartan 300 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42972637,atorvastatin 10 MG / irbesartan 150 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2065490,nebivolol 2.5 MG / rosuvastatin 10 MG Oral Tablet,NULL,bb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2063242,amlodipine 5 MG / olmesartan 20 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2063264,amlodipine 5 MG / rosuvastatin 5 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969118,Amlodipine 5 MG / Losartan 50 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2064532,amlodipine 5 MG / rosuvastatin 5 MG / telmisartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969115,Amlodipine 5 MG / Losartan 50 MG / rosuvastatin 20 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2064586,amlodipine 5 MG / rosuvastatin 5 MG / telmisartan 40 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969008,candesartan 8 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969112,Amlodipine 5 MG / Losartan 50 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2063256,amlodipine 5 MG / rosuvastatin 20 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42968981,candesartan 8 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969109,Amlodipine 5 MG / Losartan 100 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2063260,amlodipine 5 MG / rosuvastatin 10 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42968990,candesartan 32 MG / rosuvastatin 20 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969157,fimasartan potassium 60 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42932547,pitavastatin 2 MG / valsartan 160 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969106,Amlodipine 5 MG / Losartan 100 MG / rosuvastatin 20 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2064498,amlodipine 5 MG / rosuvastatin 10 MG / telmisartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42968999,candesartan 16 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969154,fimasartan potassium 60 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969129,olmesartan 40 MG / rosuvastatin 20 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969102,Amlodipine 5 MG / Losartan 100 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2064553,amlodipine 5 MG / rosuvastatin 10 MG / telmisartan 40 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969152,fimasartan potassium 30 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969123,olmesartan 40 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,1332499,Amlodipine 5 MG / atorvastatin 40 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969149,fimasartan potassium 30 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969141,olmesartan 20 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,19122209,Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2064586,amlodipine 5 MG / rosuvastatin 5 MG / telmisartan 40 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969135,olmesartan 20 MG / rosuvastatin 20 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,1332497,Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2063256,amlodipine 5 MG / rosuvastatin 20 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969132,olmesartan 20 MG / rosuvastatin 10 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42932541,pitavastatin 2 MG / valsartan 80 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42932544,pitavastatin 4 MG / valsartan 160 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42932541,pitavastatin 2 MG / valsartan 80 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2064463,amlodipine 10 MG / rosuvastatin 20 MG / telmisartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,2063260,amlodipine 5 MG / rosuvastatin 10 MG Oral Tablet,NULL,ccb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42972634,atorvastatin 20 MG / irbesartan 300 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969138,olmesartan 10 MG / rosuvastatin 5 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42932544,pitavastatin 4 MG / valsartan 160 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969022,rosuvastatin 10 MG / telmisartan 80 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42969040,rosuvastatin 10 MG / telmisartan 40 MG Oral Tablet,NULL,arb,NULL,hmg,NULL,NULL,NULL,hmg
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Losartan Potassium 100 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40185276,"Losartan Potassium 100 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Telmisartan 40 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19096740,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Amlodipine / Losartan Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332525,"Amlodipine 10 MG / Valsartan 160 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022781,"Amlodipine 5 MG / Telmisartan 80 MG Oral Tablet, Carvedilol 25 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022750,"Amlodipine 5 MG / Telmisartan 80 MG Oral Tablet, Carvedilol 12.5 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19133621,"Diltiazem Hydrochloride 90 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Bisoprolol Fumarate 5 MG Oral Tablet, Candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"Bisoprolol Fumarate 5 MG Oral Tablet, Candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1353817,"Carvedilol 25 MG Oral Tablet, Felodipine 5 MG, Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1353817,"Carvedilol 25 MG Oral Tablet, Felodipine 5 MG, Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19127433,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078106,"Amlodipine 5 MG / Telmisartan 40 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078106,"Hydrochlorothiazide 25 MG Oral Tablet, Olmesartan medoxomil 40 MG Oral Tablet, Terazosin 5 MG Oral Tablet",NULL,arb_du_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079718,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Olmesartan medoxomil 40 MG Oral Tablet, Terazosin 5 MG Oral Tablet",NULL,arb_bb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079718,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Terazosin 5 MG Oral Tablet",NULL,bb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079718,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Olmesartan medoxomil 40 MG Oral Tablet, Terazosin 5 MG Oral Tablet",NULL,arb_bb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079658,"Amlodipine 5 MG / Valsartan 80 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028935,"Amlodipine 10 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, Telmisartan 40 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Indapamide 1.5 MG",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Indapamide 1.5 MG",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Indapamide 1.5 MG",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Indapamide 1.5 MG",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"Amlodipine 5 MG Oral Tablet, Diltiazem Hydrochloride 30 MG Oral Tablet, Indapamide 1.5 MG",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"Diltiazem Hydrochloride 30 MG Oral Tablet, Indapamide 1.5 MG",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078106,"Hydrochlorothiazide 25 MG Oral Tablet, olmesartan 20 MG / rosuvastatin 10 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1363059,"Amlodipine 5 MG / Valsartan 80 MG Oral Tablet, Doxazosin 4 MG Oral Tablet",NULL,arb_ccb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 5 MG Oral Tablet, Doxazosin 4 MG Oral Tablet, Valsartan 80 MG Oral Tablet",NULL,arb_ccb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Doxazosin 4 MG Oral Tablet",NULL,ccb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,"Carvedilol 6.25 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346823,"carvedilol, Olmesartan medoxomil 40 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346823,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, carvedilol",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Amlodipine 5 MG Oral Tablet, carvedilol, Carvedilol 6.25 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346823,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, carvedilol",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028935,"Telmisartan 40 MG Oral Tablet, Telmisartan 80 MG Oral Tablet",NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 2.5 MG Oral Tablet, Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974473,"Diltiazem Hydrochloride 90 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Telmisartan 40 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19133621,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Diltiazem Hydrochloride 30 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Losartan Potassium 50 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40162878,"Bisoprolol Fumarate 5 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 2.5 MG Oral Tablet, Valsartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Candesartan cilexetil 8 MG Oral Tablet, Propranolol Hydrochloride 10 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Candesartan cilexetil 16 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet, Candesartan cilexetil 16 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet, Candesartan cilexetil 8 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Candesartan cilexetil 8 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Losartan Potassium 100 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40162878,"Bisoprolol Fumarate 5 MG Oral Tablet, Perindopril Erbumine 8 MG Oral Tablet",NULL,acei_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40162878,"Bisoprolol Fumarate 5 MG Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet",NULL,acei_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163312,"Amiloride Hydrochloride 5 MG Oral Tablet, Propranolol Hydrochloride 10 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet, Enalapril Maleate 5 MG Oral Tablet",NULL,acei_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 1.25 MG Oral Tablet, Enalapril Maleate 5 MG Oral Tablet",NULL,acei_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Amlodipine 5 MG Oral Tablet, Furosemide 40 MG Oral Tablet",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Furosemide 40 MG Oral Tablet, Nifedipine 60 MG Oral Tablet",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Furosemide 40 MG Oral Tablet, Nifedipine 60 MG Oral Tablet",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Furosemide 40 MG Oral Tablet, Nifedipine 60 MG Oral Tablet",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19076924,"Bisoprolol Fumarate 2.5 MG Oral Tablet, eprosartan 600 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Amlodipine / Losartan Oral Tablet, Indapamide 1.5 MG, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Amlodipine / Losartan Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Amlodipine 5 MG / Telmisartan 80 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG / Telmisartan 80 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG / Telmisartan 40 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG / Telmisartan 40 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078106,"Hydrochlorothiazide 25 MG Oral Tablet, Nisoldipine 10 MG Oral Tablet",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"Amlodipine 5 MG Oral Tablet, Candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028936,"Amlodipine 5 MG / Telmisartan 40 MG Oral Tablet, Telmisartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Amlodipine 5 MG / Telmisartan 40 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1334461,"Losartan Potassium 50 MG Oral Tablet, Ramipril 2.5 MG Oral Tablet",NULL,acei_arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Indapamide 1.5 MG, nebivolol 5 MG Oral Tablet",NULL,bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163271,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet",NULL,acei_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40162878,"Amlodipine 5 MG / Telmisartan 80 MG Oral Tablet, Bisoprolol Fumarate 5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40166188,"Amlodipine 5 MG / Telmisartan 80 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19127433,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40166188,"Amlodipine 5 MG / Telmisartan 40 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Furosemide 40 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Irbesartan 150 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Irbesartan 150 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163342,"Amlodipine / Losartan Oral Tablet, Propranolol Hydrochloride 40 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163342,"Amlodipine / Losartan Oral Tablet, Propranolol Hydrochloride 40 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Telmisartan 40 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Telmisartan 40 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19107812,"Losartan Potassium 50 MG Oral Tablet, Nisoldipine 10 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Bisoprolol Fumarate 5 MG Oral Tablet, Candesartan cilexetil 8 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 5 MG Oral Tablet, Candesartan cilexetil 8 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Carvedilol 6.25 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Amlodipine 5 MG / Telmisartan 40 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet, Telmisartan 40 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Amlodipine 5 MG / Telmisartan 80 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Indapamide 1.5 MG, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"24 HR Diltiazem Hydrochloride 180 MG Extended Release Oral Capsule, nebivolol 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Furosemide 40 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Amlodipine 5 MG Oral Tablet, Furosemide 40 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332525,"Amlodipine 10 MG / Valsartan 160 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19122209,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19096740,"Bisoprolol Fumarate 1.25 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Diltiazem Hydrochloride 90 MG Oral Tablet, Indapamide 1.5 MG",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,978557,"Diltiazem Hydrochloride 90 MG Oral Tablet, Indapamide 2.5 MG Oral Tablet",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,978557,"Diltiazem Hydrochloride 30 MG Oral Tablet, Indapamide 2.5 MG Oral Tablet",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Propranolol Hydrochloride 40 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Carvedilol 12.5 MG Oral Tablet, Hydrochlorothiazide 25 MG / Losartan Potassium 100 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Furosemide 40 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Carvedilol 12.5 MG Oral Tablet, Hydrochlorothiazide 25 MG / Losartan Potassium 100 MG Oral Tablet, Terazosin 2 MG Oral Tablet",NULL,arb_bb_ccb_du_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Carvedilol 12.5 MG Oral Tablet, Hydrochlorothiazide 25 MG / Losartan Potassium 100 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, carvedilol, Hydrochlorothiazide 25 MG / Losartan Potassium 100 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Candesartan cilexetil 16 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Terazosin 2 MG Oral Tablet, Valsartan 80 MG Oral Tablet",NULL,arb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19102491,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079658,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Amlodipine 10 MG / Olmesartan medoxomil 40 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19122209,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022781,"Carvedilol 25 MG Oral Tablet, Losartan Potassium 100 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Diltiazem Hydrochloride 90 MG Oral Tablet, Indapamide 1.5 MG",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Amlodipine 5 MG / Olmesartan medoxomil 40 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19073093,"Amlodipine 10 MG Oral Tablet, Olmesartan medoxomil 40 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974642,"Amlodipine 5 MG Oral Tablet, Eprosartan 600 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974642,"Eprosartan 600 MG / Hydrochlorothiazide 12.5 MG Oral Tablet, Nifedipine 60 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19122209,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022949,"Amlodipine / Losartan Oral Tablet, Irbesartan 300 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346823,"carvedilol, eprosartan 600 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 5 MG Oral Tablet, Valsartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, carvedilol",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19122209,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332494,"Amlodipine 10 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 10 MG / Atorvastatin 20 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19023454,"Amlodipine 5 MG / Olmesartan medoxomil 40 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Valsartan 160 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Telmisartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19096740,"Diltiazem Hydrochloride 90 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Terazosin 2 MG Oral Tablet",NULL,ccb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Carvedilol 12.5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Candesartan cilexetil 8 MG Oral Tablet, Carvedilol 12.5 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Candesartan cilexetil 16 MG Oral Tablet, Carvedilol 12.5 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40166188,"Amlodipine / Losartan Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,21141332,"Amlodipine 5 MG / Valsartan 80 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Valsartan 80 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet, Candesartan cilexetil 8 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,21141332,"Amlodipine 5 MG / Valsartan 80 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346990,"Carvedilol 3.125 MG Oral Tablet, Carvedilol 6.25 MG Oral Tablet",NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Furosemide 40 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Irbesartan 300 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Irbesartan 300 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Amlodipine 2.5 MG Oral Tablet, Bisoprolol Fumarate 1.25 MG Oral Tablet, Candesartan cilexetil 16 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346823,"Amlodipine 2.5 MG Oral Tablet, Candesartan cilexetil 16 MG Oral Tablet, carvedilol",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 5 MG / Valsartan 80 MG Oral Tablet, Amlodipine 5 MG Oral Tablet, Valsartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Candesartan cilexetil 8 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19073094,"Amlodipine 2.5 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet, Indapamide 1.5 MG",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1334461,"Amlodipine 2.5 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet, Indapamide 1.5 MG, Ramipril 2.5 MG Oral Tablet",NULL,acei_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19076924,"eprosartan 600 MG Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet",NULL,acei_arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19122209,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19122209,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Candesartan cilexetil 16 MG Oral Tablet, Nifedipine 30 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Candesartan cilexetil 16 MG Oral Tablet, Nifedipine 30 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974473,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Telmisartan 40 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"Candesartan cilexetil 16 MG Oral Tablet, Diltiazem Hydrochloride 30 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Candesartan cilexetil 16 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Candesartan cilexetil 8 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19133621,"Bisoprolol Fumarate 5 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1314008,"Atenolol 50 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Hydrochlorothiazide 12.5 MG / Losartan Potassium 100 MG Oral Tablet, nebivolol 5 MG Oral Tablet, Nifedipine 30 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Losartan Potassium 100 MG Oral Tablet, nebivolol 5 MG Oral Tablet, Nifedipine 30 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Losartan Potassium 50 MG Oral Tablet, nebivolol 5 MG Oral Tablet, Nifedipine 30 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Losartan Potassium 100 MG Oral Tablet, nebivolol 5 MG Oral Tablet, Nifedipine 30 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101807,"Losartan Potassium 100 MG Oral Tablet, Nifedipine 30 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101807,"Losartan Potassium 50 MG Oral Tablet, Nifedipine 30 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 5 MG Oral Tablet, Valsartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Olmesartan medoxomil 40 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, Olmesartan medoxomil 40 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Candesartan cilexetil 8 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet, Candesartan cilexetil 8 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351587,"Candesartan cilexetil 32 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"Amlodipine 5 MG Oral Tablet, Candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Furosemide 40 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1334461,"Carvedilol 3.125 MG Oral Tablet, Ramipril 2.5 MG Oral Tablet",NULL,acei_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1334492,"Carvedilol 3.125 MG Oral Tablet, Ramipril 5 MG Oral Tablet",NULL,acei_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Carvedilol 6.25 MG Oral Tablet, Furosemide 40 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Bisoprolol Fumarate 5 MG Oral Tablet, Furosemide 40 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19127433,"Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 10 MG Oral Tablet, Amlodipine 5 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19073093,"Amlodipine 10 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Enalapril Maleate 10 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,acei_arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Enalapril Maleate 10 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,acei_arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Enalapril Maleate 5 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,acei_arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Indapamide 1.5 MG, Valsartan 160 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,"Captopril 12.5 MG Oral Tablet, Carvedilol 6.25 MG Oral Tablet",NULL,acei_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1314008,"Amlodipine 5 MG Oral Tablet, Atenolol 50 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Losartan Potassium 100 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Candesartan cilexetil 16 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Telmisartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet, Carvedilol 3.125 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 5 MG Oral Tablet, Valsartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19127433,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19122209,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 20 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 5 MG Oral Tablet, Valsartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, nebivolol 5 MG Oral Tablet, Valsartan 160 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332527,"Amlodipine 5 MG / Valsartan 160 MG Oral Tablet, Carvedilol 12.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1363059,"Amlodipine 10 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 40 MG Oral Tablet, Doxazosin 4 MG Oral Tablet",NULL,arb_ccb_du_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078080,"Hydrochlorothiazide 12.5 MG / Irbesartan 150 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1314008,"Atenolol 50 MG Oral Tablet, Felodipine 5 MG, Telmisartan 40 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022948,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Irbesartan 150 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Telmisartan 40 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"Amlodipine 5 MG Oral Tablet, Candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Candesartan cilexetil 8 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"Amlodipine / Losartan Oral Tablet, Diltiazem Hydrochloride 30 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Amlodipine 5 MG / Atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40168654,Clonidine Hydrochloride 0.1 MG Oral Tablet,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40174811,Hydralazine Hydrochloride 25 MG Oral Tablet,NULL,others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,21061008,Hydralazine 20 MG Injection,NULL,others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1309071,Minoxidil 5 MG Oral Tablet,NULL,others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1309099,Minoxidil 50 MG/ML Topical Solution,NULL,others,NULL,NULL,NULL,NULL,NULL,NULL
+condition,441919,Twin pregnancy,NULL,NULL,NULL,NULL,pregnant,NULL,NULL,NULL
+condition,444094,Finding related to pregnancy,NULL,NULL,NULL,NULL,pregnant,NULL,NULL,NULL
+condition,432375,Triplet pregnancy,NULL,NULL,NULL,NULL,pregnant,NULL,NULL,NULL
+condition,4167493,Pregnancy-induced hypertension,NULL,NULL,NULL,NULL,pregnant,NULL,NULL,NULL
+condition,4299535,Pregnant,NULL,NULL,NULL,NULL,pregnant,NULL,NULL,NULL
+procedure,4148948,Vascular surgery procedure,NULL,NULL,NULL,NULL,major_surgery,NULL,NULL,NULL
+procedure,4322471,Transplant of kidney,NULL,NULL,NULL,NULL,major_surgery,NULL,NULL,NULL
+procedure,4076862,Transplantation of liver,NULL,NULL,NULL,NULL,major_surgery,NULL,NULL,NULL
+procedure,4137127,Transplantation of heart,NULL,NULL,NULL,NULL,major_surgery,NULL,NULL,NULL
+procedure,4337138,Transplant of lung,NULL,NULL,NULL,NULL,major_surgery,NULL,NULL,NULL
+procedure,4208341,Solid organ transplant,NULL,NULL,NULL,NULL,major_surgery,NULL,NULL,NULL
+procedure,4266668,Transplantation of pancreas,NULL,NULL,NULL,NULL,major_surgery,NULL,NULL,NULL
+procedure,4022474,Autotransplantation of kidney,NULL,NULL,NULL,NULL,major_surgery,NULL,NULL,NULL
+procedure,4138959,Heart-lung transplant with recipient cardiectomy-pneumonectomy,NULL,NULL,NULL,NULL,major_surgery,NULL,NULL,NULL
+procedure,4109237,Removal of rejected kidney,NULL,NULL,NULL,NULL,major_surgery,NULL,NULL,NULL
+measurement,40758990,Choriogonadotropin.beta subunit [Mass/volume] in Serum or Plasma,NULL,NULL,NULL,NULL,hcg,NULL,NULL,NULL
+measurement,21492240,Diastolic blood pressure by noninvasive,NULL,NULL,NULL,NULL,NULL,dbp,NULL,NULL
+measurement,21492239,Systolic blood pressure by noninvasive,NULL,NULL,NULL,NULL,NULL,sbp,NULL,NULL
+drug,19058438,Simethicone 10 MG/ML Oral Suspension,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,1545997,atorvastatin 10 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,19075601,clopidogrel 75 MG Oral Tablet,NULL,NULL,NULL,anticoagulant drug,NULL,NULL,NULL,anticoagulant drug
+drug,19021575,Aspirin 100 MG Delayed Release Oral Tablet,NULL,NULL,NULL,nsaids,NULL,NULL,NULL,nsaids
+drug,42483115,Aspirin 100 MG Oral Capsule,NULL,NULL,NULL,nsaids,NULL,NULL,NULL,nsaids
+drug,40165245,Rosuvastatin calcium 10 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,19072235,Acetaminophen 650 MG Extended Release Oral Tablet,NULL,NULL,NULL,analgesic drug,NULL,NULL,NULL,analgesic drug
+drug,40164929,Metformin hydrochloride 500 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,19106796,mosapride 5 MG Oral Tablet,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,40083596,Simethicone Oral Suspension,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,19123592,atorvastatin 20 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,36883784,Scopolamine 20 MG/ML Injection,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,19029394,aceclofenac 100 MG Oral Tablet,NULL,NULL,NULL,nsaids,NULL,NULL,NULL,nsaids
+drug,961050,Ranitidine 150 MG Oral Tablet,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,19029025,celecoxib 200 MG Oral Capsule,NULL,NULL,NULL,nsaids,NULL,NULL,NULL,nsaids
+drug,35606552,"2 ML Famotidine 10 MG/ML Injection",NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,40165642,pitavastatin calcium 2 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,19043745,Simethicone 60 MG Oral Tablet [Phazyme],NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,40163524,Warfarin Sodium 2 MG Oral Tablet,NULL,NULL,NULL,anticoagulant drug,NULL,NULL,NULL,anticoagulant drug
+drug,40029060,Cisapride Oral Tablet,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,906933,Metoclopramide 5 MG Oral Tablet,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,19077241,Famotidine 20 MG Oral Tablet,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,46287424,"1 ML Ketorolac Tromethamine 30 MG/ML Injection",NULL,NULL,NULL,nsaids,NULL,NULL,NULL,nsaids
+drug,41021231,rabeprazole 10 MG Oral Tablet,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,41302979,Metoclopramide 10 MG Injectable Solution,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,1797515,Ciprofloxacin 250 MG Oral Tablet,NULL,NULL,NULL,antibacterial,NULL,NULL,NULL,antibacterial
+drug,19019273,Naproxen 500 MG Oral Tablet,NULL,NULL,NULL,nsaids,NULL,NULL,NULL,nsaids
+drug,40165253,Rosuvastatin calcium 20 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,1597772,glimepiride 2 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,19060251,Ambroxol 30 MG Oral Tablet,NULL,NULL,NULL,respiratory system drug,NULL,NULL,NULL,respiratory system drug
+drug,19078461,Ibuprofen 200 MG Oral Tablet,NULL,NULL,NULL,nsaids,NULL,NULL,NULL,nsaids
+drug,19101743,Omeprazole 20 MG Oral Tablet,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,42959405,etizolam 0.5 MG Oral Tablet,NULL,NULL,NULL,antianxiety agent,NULL,NULL,NULL,antianxiety agent
+drug,929953,lansoprazole 15 MG Delayed Release Oral Capsule,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,19101746,Esomeprazole 20 MG Oral Tablet,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,1597773,glimepiride 4 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,19137056,Theobromine,NULL,NULL,NULL,respiratory system drug,NULL,NULL,NULL,respiratory system drug
+drug,40221355,Vancomycin 1000 MG Injection,NULL,NULL,NULL,antibacterial,NULL,NULL,NULL,antibacterial
+drug,35604687,palonosetron Injection,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,40823597,Acetaminophen 650 MG / Tramadol 75 MG Oral Tablet,NULL,NULL,NULL,analgesic drug,NULL,NULL,NULL,analgesic drug
+drug,36883380,Domperidone 12.7 MG,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,46287328,Ceftriaxone 1000 MG Injection,NULL,NULL,NULL,antibacterial,NULL,NULL,NULL,antibacterial
+drug,21109207,tamsulosin 0.2 MG,NULL,NULL,NULL,micturition disorder drug,NULL,NULL,NULL,micturition disorder drug
+drug,19112363,Ursodiol 200 MG,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,1113143,Aspirin 100 MG Oral Tablet,NULL,NULL,NULL,nsaids,NULL,NULL,NULL,nsaids
+drug,19019337,Nitroglycerin 0.6 MG Sublingual Tablet,NULL,NULL,NULL,antianginal agent,NULL,NULL,NULL,antianginal agent
+drug,19108062,Trimetazidine 35 MG Extended Release Oral Tablet,NULL,NULL,NULL,antianginal agent,NULL,NULL,NULL,antianginal agent
+drug,19077548,gabapentin 300 MG Oral Capsule,NULL,NULL,NULL,anticonvulsant,NULL,NULL,NULL,anticonvulsant
+drug,41180028,duloxetine 30 MG Oral Capsule,NULL,NULL,NULL,antidepressant,NULL,NULL,NULL,antidepressant
+drug,1711248,entecavir 0.5 MG Oral Tablet,NULL,NULL,NULL,antiviral agent,NULL,NULL,NULL,antiviral agent
+drug,916008,solifenacin succinate 10 MG Oral Tablet,NULL,NULL,NULL,micturition disorder drug,NULL,NULL,NULL,micturition disorder drug
+drug,1103359,Acetaminophen 325 MG / tramadol hydrochloride 37.5 MG Oral Tablet,NULL,NULL,NULL,analgesic drug,NULL,NULL,NULL,analgesic drug
+drug,19009891,Molsidomine 4 MG Oral Tablet,NULL,NULL,NULL,antianginal agent,NULL,NULL,NULL,antianginal agent
+drug,1717708,valacyclovir 500 MG Oral Tablet,NULL,NULL,NULL,antiviral agent,NULL,NULL,NULL,antiviral agent
+drug,721728,Nortriptyline 10 MG Oral Tablet,NULL,NULL,NULL,antidepressant,NULL,NULL,NULL,antidepressant
+drug,19018909,Diazepam 2 MG Oral Tablet,NULL,NULL,NULL,antianxiety agent,NULL,NULL,NULL,antianxiety agent
+drug,40165261,Rosuvastatin calcium 5 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,19019078,Isosorbide Dinitrate 40 MG Oral Tablet,NULL,NULL,NULL,antianginal agent,NULL,NULL,NULL,antianginal agent
+drug,46287620,"5 ML Midazolam 1 MG/ML Injection",NULL,NULL,NULL,sedatives,NULL,NULL,NULL,sedatives
+drug,42953818,glimepiride 2 MG / Metformin 500 MG Extended Release Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,19103434,erdosteine 300 MG Oral Capsule,NULL,NULL,NULL,respiratory system drug,NULL,NULL,NULL,respiratory system drug
+drug,1594686,"2 ML Gentamicin 40 MG/ML Injection",NULL,NULL,NULL,antibacterial,NULL,NULL,NULL,antibacterial
+drug,46287338,Cefazolin 1000 MG Injection,NULL,NULL,NULL,antibacterial,NULL,NULL,NULL,antibacterial
+drug,40164897,Metformin hydrochloride 1000 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,1551838,Fenofibrate 160 MG Oral Tablet,NULL,NULL,NULL,antihyperlipidemic agent,NULL,NULL,NULL,antihyperlipidemic agent
+drug,1545996,atorvastatin 40 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,19101742,Omeprazole 10 MG Oral Tablet,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,987250,Lactulose 667 MG/ML Oral Solution,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,19077547,gabapentin 100 MG Oral Capsule,NULL,NULL,NULL,anticonvulsant,NULL,NULL,NULL,anticonvulsant
+drug,42934164,Ticlopidine 100 MG Oral Tablet,NULL,NULL,NULL,anticoagulant drug,NULL,NULL,NULL,anticoagulant drug
+drug,40044222,Gliclazide Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,36887702,Metformin 850 MG / sitagliptin 50 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,46287345,Cefazolin 2000 MG Injection,NULL,NULL,NULL,antibacterial,NULL,NULL,NULL,antibacterial
+drug,40163492,Zolpidem tartrate 10 MG Oral Tablet,NULL,NULL,NULL,sedatives,NULL,NULL,NULL,sedatives
+drug,40164946,Metformin hydrochloride 850 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,1309992,Amiodarone hydrochloride 200 MG Oral Tablet,NULL,NULL,NULL,antiarrhythmic agent,NULL,NULL,NULL,antiarrhythmic agent
+drug,40239218,Linagliptin 5 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,19042779,triflusal 300 MG Oral Capsule,NULL,NULL,NULL,anticoagulant drug,NULL,NULL,NULL,anticoagulant drug
+drug,19125041,sitagliptin 100 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,1504672,Methimazole 5 MG Oral Tablet,NULL,NULL,NULL,antithyroid agent,NULL,NULL,NULL,antithyroid agent
+drug,1539469,ezetimibe 10 MG / Simvastatin 10 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,798875,Clonazepam 0.5 MG Oral Tablet,NULL,NULL,NULL,anticonvulsant,NULL,NULL,NULL,anticonvulsant
+drug,1526479,ezetimibe 10 MG / Simvastatin 20 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,1350311,cilostazol 100 MG Oral Tablet,NULL,NULL,NULL,anticoagulant drug,NULL,NULL,NULL,anticoagulant drug
+drug,19059800,"24 HR Gliclazide 30 MG Extended Release Oral Tablet",NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,19103575,Acetylcysteine 200 MG Oral Capsule,NULL,NULL,NULL,respiratory system drug,NULL,NULL,NULL,respiratory system drug
+drug,1167323,Allopurinol 100 MG Oral Tablet,NULL,NULL,NULL,antigout agent,NULL,NULL,NULL,antigout agent
+drug,40163504,Zolpidem tartrate 6.25 MG Extended Release Oral Tablet,NULL,NULL,NULL,sedatives,NULL,NULL,NULL,sedatives
+drug,40164922,Metformin hydrochloride 500 MG / sitagliptin 50 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,1525221,pioglitazone 15 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,1539411,Simvastatin 20 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,40175400,Pravastatin Sodium 40 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,19107244,Acetaminophen 1000 MG Oral Tablet,NULL,NULL,NULL,analgesic drug,NULL,NULL,NULL,analgesic drug
+drug,40175394,Pravastatin Sodium 20 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,40164943,Metformin hydrochloride 850 MG / pioglitazone 15 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,19129179,vildagliptin 50 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,40231402,Metformin hydrochloride 500 MG / saxagliptin 5 MG Extended Release Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,40168220,adefovir dipivoxil 10 MG Oral Tablet,NULL,NULL,NULL,antiviral agent,NULL,NULL,NULL,antiviral agent
+drug,40165646,pitavastatin calcium 4 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,19112569,ezetimibe 10 MG / Simvastatin 40 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,40164891,Metformin hydrochloride 1000 MG / sitagliptin 50 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,19125049,sitagliptin 50 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,19098834,Domperidone 30 MG,NULL,NULL,NULL,gastrointestinal agent,NULL,NULL,NULL,gastrointestinal agent
+drug,19106521,Metformin 250 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,43736403,"15 ML Isosorbide Dinitrate 25 MG/ML Oral Spray [Isoket]",NULL,NULL,NULL,antianginal agent,NULL,NULL,NULL,antianginal agent
+drug,19086163,fluvastatin 80 MG,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,43527029,atorvastatin 10 MG / ezetimibe 10 MG Oral Tablet,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,40163928,"24 HR Metformin hydrochloride 750 MG Extended Release Oral Tablet",NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,42961487,gemigliptin 25 MG / Metformin 500 MG Extended Release Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,40166041,saxagliptin 5 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,19100691,Isosorbide Dinitrate 10 MG Oral Tablet,NULL,NULL,NULL,antianginal agent,NULL,NULL,NULL,antianginal agent
+drug,19076374,Diazepam 5 MG/ML Injectable Solution,NULL,NULL,NULL,antianxiety agent,NULL,NULL,NULL,antianxiety agent
+drug,43256461,Linagliptin 2.5 MG / Metformin 500 MG Oral Tablet [Trajentamet],NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,40163496,Zolpidem tartrate 12.5 MG Extended Release Oral Tablet,NULL,NULL,NULL,sedatives,NULL,NULL,NULL,sedatives
+drug,43013918,alogliptin 25 MG / pioglitazone 30 MG Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,19077498,fluvastatin 40 MG Oral Capsule,NULL,NULL,NULL,hmg,NULL,NULL,NULL,hmg
+drug,42708168,Metformin hydrochloride 1000 MG / sitagliptin 100 MG Extended Release Oral Tablet,NULL,NULL,NULL,antidiabetic agent,NULL,NULL,NULL,antidiabetic agent
+drug,950641,Tacrolimus 1 MG Oral Capsule,NULL,NULL,NULL,immunosuppressive agent,NULL,NULL,NULL,immunosuppressive agent
+drug,19079712,Tacrolimus 0.5 MG Oral Capsule,NULL,NULL,NULL,immunosuppressive agent,NULL,NULL,NULL,immunosuppressive agent
+drug,19088843,Ciprofloxacin 400 MG,NULL,NULL,NULL,antibacterial,NULL,NULL,NULL,antibacterial
+condition,4029305,Hypercholesterolemia,NULL,NULL,dyslipidemia,NULL,NULL,NULL,dyslipidemia,NULL
+condition,77670,Chest pain,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,201820,Diabetes mellitus,NULL,NULL,diabetes mellitus,NULL,NULL,NULL,diabetes mellitus,NULL
+condition,432867,Hyperlipidemia,NULL,NULL,dyslipidemia,NULL,NULL,NULL,dyslipidemia,NULL
+condition,4008576,Diabetes mellitus without complication,NULL,NULL,diabetes mellitus,NULL,NULL,NULL,diabetes mellitus,NULL
+condition,4193704,Type 2 diabetes mellitus without complication,NULL,NULL,diabetes mellitus,NULL,NULL,NULL,diabetes mellitus,NULL
+condition,321318,Angina pectoris,NULL,NULL,angina pectoris,NULL,NULL,NULL,angina pectoris,NULL
+condition,4059290,Steatosis of liver,NULL,NULL,liver disease,NULL,NULL,NULL,liver disease,NULL
+condition,443454,Cerebral infarction,NULL,NULL,cerebrovascular disease,NULL,NULL,NULL,cerebrovascular disease,NULL
+condition,381591,Cerebrovascular disease,NULL,NULL,cerebrovascular disease,NULL,NULL,NULL,cerebrovascular disease,NULL
+condition,4329041,Pain,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,313217,Atrial fibrillation,NULL,NULL,af,NULL,NULL,NULL,af,NULL
+condition,201340,Gastritis,NULL,NULL,gi disease,NULL,NULL,NULL,gi disease,NULL
+condition,40481919,Coronary atherosclerosis,NULL,NULL,coronary arteriosclerosis,NULL,NULL,NULL,coronary arteriosclerosis,NULL
+condition,375545,Cataract,NULL,NULL,eye disease,NULL,NULL,NULL,eye disease,NULL
+condition,4289526,Nonulcer dyspepsia,NULL,NULL,gi disease,NULL,NULL,NULL,gi disease,NULL
+condition,317576,Coronary arteriosclerosis,NULL,NULL,coronary arteriosclerosis,NULL,NULL,NULL,coronary arteriosclerosis,NULL
+condition,192667,Atrophic gastritis,NULL,NULL,gi disease,NULL,NULL,NULL,gi disease,NULL
+condition,315078,Palpitations,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,4223938,Dizziness,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,4311629,Impaired glucose tolerance,NULL,NULL,prediabetes,NULL,NULL,NULL,prediabetes,NULL
+condition,4068155,Atrial arrhythmia,NULL,NULL,arrhythmia,NULL,NULL,NULL,arrhythmia,NULL
+condition,316437,Cerebral atherosclerosis,NULL,NULL,cerebrovascular disease,NULL,NULL,NULL,cerebrovascular disease,NULL
+condition,4147761,Hyperuricemia,NULL,NULL,hyperuricemia,NULL,NULL,NULL,renal disease,NULL
+condition,318800,Gastroesophageal reflux disease,NULL,NULL,gi disease,NULL,NULL,NULL,gi disease,NULL
+condition,140673,Hypothyroidism,NULL,NULL,hypothyroidism,NULL,NULL,NULL,hypothyroidism,NULL
+condition,80502,Osteoporosis,NULL,NULL,musculoskeletal disease,NULL,NULL,NULL,musculoskeletal disease,NULL
+condition,4001171,Liver cell carcinoma,NULL,NULL,neoplasm,NULL,NULL,NULL,neoplasm,NULL
+condition,4098583,Posthepatitic cirrhosis,NULL,NULL,liver disease,NULL,NULL,NULL,liver disease,NULL
+condition,438878,Liver function tests abnormal,NULL,NULL,liver disease,NULL,NULL,NULL,liver disease,NULL
+condition,378253,Headache,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,4120314,Hypertriglyceridemia,NULL,NULL,dyslipidemia,NULL,NULL,NULL,dyslipidemia,NULL
+condition,4195039,Osteopenia,NULL,NULL,musculoskeletal disease,NULL,NULL,NULL,musculoskeletal disease,NULL
+condition,312437,Dyspnea,NULL,NULL,dyspnea,NULL,NULL,NULL,dyspnea,NULL
+condition,4116228,Papillary thyroid carcinoma,NULL,NULL,neoplasm,NULL,NULL,NULL,neoplasm,NULL
+condition,442077,Anxiety disorder,NULL,NULL,mental and behavioural disorder,NULL,NULL,NULL,mental and behavioural disorder,NULL
+condition,4133044,Chest discomfort,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,381035,Vertigo of central origin,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,4225273,Chronic gastritis,NULL,NULL,gi disease,NULL,NULL,NULL,gi disease,NULL
+condition,194574,Chronic type B viral hepatitis,NULL,NULL,liver disease,NULL,NULL,NULL,liver disease,NULL
+condition,4159131,Dyslipidemia,NULL,NULL,dyslipidemia,NULL,NULL,NULL,dyslipidemia,NULL
+condition,436962,Insomnia,NULL,NULL,insomnia,NULL,NULL,NULL,insomnia,NULL
+condition,194990,Inflammatory disease of liver,NULL,NULL,liver disease,NULL,NULL,NULL,liver disease,NULL
+condition,4044235,Atypical cluster headache,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,4049881,Infectious gastroenteritis,NULL,NULL,gi disease,NULL,NULL,NULL,gi disease,NULL
+condition,4308509,Impaired fasting glycaemia,NULL,NULL,prediabetes,NULL,NULL,NULL,prediabetes,NULL
+condition,435262,Primary open angle glaucoma,NULL,NULL,eye disease,NULL,NULL,NULL,eye disease,NULL
+condition,260139,Acute bronchitis,NULL,NULL,pulmonary disease,NULL,NULL,NULL,pulmonary disease,NULL
+condition,320536,Electrocardiogram abnormal,NULL,NULL,abnormal ecg,NULL,NULL,NULL,abnormal ecg,NULL
+condition,443597,Chronic kidney disease stage 3,NULL,NULL,renal disease,NULL,NULL,NULL,renal disease,NULL
+condition,198803,Benign prostatic hyperplasia,NULL,NULL,prostatic hyperplasia,NULL,NULL,NULL,prostatic hyperplasia,NULL
+condition,4093346,Large prostate,NULL,NULL,prostatic hyperplasia,NULL,NULL,NULL,prostatic hyperplasia,NULL
+condition,4270024,Acute non-ST segment elevation myocardial infarction,NULL,NULL,nstemi,NULL,NULL,NULL,nstemi,NULL
+condition,46271022,Chronic kidney disease,NULL,NULL,renal disease,NULL,NULL,NULL,renal disease,NULL
+condition,440383,Depressive disorder,NULL,NULL,mental and behavioural disorder,NULL,NULL,NULL,mental and behavioural disorder,NULL
+condition,4102124,Carotid atherosclerosis,NULL,NULL,cerebrovascular disease,NULL,NULL,NULL,cerebrovascular disease,NULL
+condition,318736,Migraine,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,4182210,Dementia,NULL,NULL,mental and behavioural disorder,NULL,NULL,NULL,mental and behavioural disorder,NULL
+condition,373503,Transient cerebral ischemia,NULL,NULL,cerebrovascular disease,NULL,NULL,NULL,cerebrovascular disease,NULL
+condition,440674,Gout,NULL,NULL,musculoskeletal disease,NULL,NULL,NULL,musculoskeletal disease,NULL
+condition,317009,Asthma,NULL,NULL,pulmonary disease,NULL,NULL,NULL,pulmonary disease,NULL
+condition,4154290,Paroxysmal atrial fibrillation,NULL,NULL,af,NULL,NULL,NULL,af,NULL
+condition,376382,Tension-type headache,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,4214376,Hyperglycemia,NULL,NULL,diabetes mellitus,NULL,NULL,NULL,diabetes mellitus,NULL
+condition,198185,Chronic renal failure,NULL,NULL,renal disease,NULL,NULL,NULL,renal disease,NULL
+condition,433440,Dysthymia,NULL,NULL,mental and behavioural disorder,NULL,NULL,NULL,mental and behavioural disorder,NULL
+condition,80180,Osteoarthritis,NULL,NULL,musculoskeletal disease,NULL,NULL,NULL,musculoskeletal disease,NULL
+condition,4201745,Disorder of digestive system,NULL,NULL,gi disease,NULL,NULL,NULL,gi disease,NULL
+condition,4316224,Brain stem infarction,NULL,NULL,cerebrovascular disease,NULL,NULL,NULL,cerebrovascular disease,NULL
+condition,316139,Heart failure,NULL,NULL,heart failure,NULL,NULL,NULL,heart failure,NULL
+condition,40481633,Azotemia,NULL,NULL,renal disease,NULL,NULL,NULL,renal disease,NULL
+condition,442604,Hypertensive heart disease,NULL,NULL,heart failure,NULL,NULL,NULL,heart failure,NULL
+condition,4077957,Unruptured aneurysm of middle cerebral artery,NULL,NULL,cerebrovascular disease,NULL,NULL,NULL,cerebrovascular disease,NULL
+condition,315296,Preinfarction syndrome,NULL,NULL,angina pectoris,NULL,NULL,NULL,angina pectoris,NULL
+condition,4124693,Hypertrophic cardiomyopathy,NULL,NULL,cardiomyopathy,NULL,NULL,NULL,cardiomyopathy,NULL
+condition,376966,Exudative age-related macular degeneration,NULL,NULL,eye disease,NULL,NULL,NULL,eye disease,NULL
+condition,4079750,Osteoarthritis of knee,NULL,NULL,musculoskeletal disease,NULL,NULL,NULL,musculoskeletal disease,NULL
+condition,381270,Parkinson's disease,NULL,NULL,nervous system disorder,NULL,NULL,NULL,nervous system disorder,NULL
+condition,378774,Moyamoya disease,NULL,NULL,nervous system disorder,NULL,NULL,NULL,nervous system disorder,NULL
+condition,4047607,AL amyloidosis,NULL,NULL,amyloidosis,NULL,NULL,NULL,amyloidosis,NULL
+condition,437233,Multiple myeloma,NULL,NULL,neoplasm,NULL,NULL,NULL,neoplasm,NULL
+condition,4080995,Fibromyositis,NULL,NULL,musculoskeletal disease,NULL,NULL,NULL,musculoskeletal disease,NULL
+condition,201313,Hypertensive renal disease,NULL,NULL,renal disease,NULL,NULL,NULL,renal disease,NULL
+condition,433595,Edema,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,4163710,Dilated cardiomyopathy,NULL,NULL,cardiomyopathy,NULL,NULL,NULL,cardiomyopathy,NULL
+condition,4168705,Albuminuria,NULL,NULL,renal disease,NULL,NULL,NULL,renal disease,NULL
+condition,4262560,Arteriosclerosis obliterans,NULL,NULL,arteriosclerosis obliterans,NULL,NULL,NULL,arteriosclerosis obliterans,NULL
+condition,4135822,Primary biliary cholangitis,NULL,NULL,liver disease,NULL,NULL,NULL,liver disease,NULL
+condition,75650,Proteinuria,NULL,NULL,renal disease,NULL,NULL,NULL,renal disease,NULL
+condition,4044391,Diabetic neuropathy,NULL,NULL,diabetic neuropathy,NULL,NULL,NULL,diabetic neuropathy,NULL
+condition,436398,Glaucoma associated with ocular disorder,NULL,NULL,eye disease,NULL,NULL,NULL,eye disease,NULL
+condition,439418,Indigestion,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,200219,Abdominal pain,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,195588,Cystitis,NULL,NULL,bladder disease,NULL,NULL,NULL,bladder disease,NULL
+condition,4181351,Malignant tumor of ovary,NULL,NULL,neoplasm,NULL,NULL,NULL,neoplasm,NULL
+condition,198202,Cystocele,NULL,NULL,bladder disease,NULL,NULL,NULL,bladder disease,NULL
+condition,443612,Chronic kidney disease stage 4,NULL,NULL,renal disease,NULL,NULL,NULL,renal disease,NULL
+condition,378416,Retinal disorder,NULL,NULL,eye disease,NULL,NULL,NULL,eye disease,NULL
+condition,4272340,Costal chondritis,NULL,NULL,musculoskeletal disease,NULL,NULL,NULL,musculoskeletal disease,NULL
+condition,40482088,Uremia due to inadequate renal perfusion,NULL,NULL,renal disease,NULL,NULL,NULL,renal disease,NULL
+condition,44784217,Cardiac arrhythmia,NULL,NULL,arrhythmia,NULL,NULL,NULL,arrhythmia,NULL
+measurement,3006923,Alanine aminotransferase [Enzymatic activity/volume] in Serum or Plasma,NULL,NULL,NULL,NULL,NULL,alt,NULL,NULL
+measurement,3042781,Aspartate aminotransferase [Enzymatic activity/volume] (Maximum value during study) in Serum or Plasma,NULL,NULL,NULL,NULL,NULL,ast,NULL,NULL
+measurement,3016723,Creatinine [Mass/volume] in Serum or Plasma,NULL,NULL,NULL,NULL,NULL,creatinine,NULL,NULL
+measurement,46236952,"Glomerular filtration rate/1.73 sq M.predicted [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (MDRD)",NULL,NULL,NULL,NULL,NULL,gfr,NULL,NULL
+measurement,3035995,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma,NULL,NULL,NULL,NULL,NULL,alp,NULL,NULL
+measurement,3028833,Bilirubin.total [Mass/volume] in Blood,NULL,NULL,NULL,NULL,NULL,bilirubin,NULL,NULL
+measurement,3020630,Protein [Mass/volume] in Serum or Plasma,NULL,NULL,NULL,NULL,NULL,protein,NULL,NULL
+measurement,3013682,Urea nitrogen [Mass/volume] in Serum or Plasma,NULL,NULL,NULL,NULL,NULL,bun,NULL,NULL
+measurement,44787076,Cholestanol/Cholesterol in Serum or Plasma,NULL,NULL,NULL,NULL,NULL,tot_chol,NULL,NULL
+measurement,3007070,Cholesterol in HDL [Mass/volume] in Serum or Plasma,NULL,NULL,NULL,NULL,NULL,hdl,NULL,NULL
+measurement,3028437,Cholesterol in LDL [Mass/volume] in Serum or Plasma,NULL,NULL,NULL,NULL,NULL,ldl,NULL,NULL
+measurement,3022192,Triglyceride [Mass/volume] in Serum or Plasma,NULL,NULL,NULL,NULL,NULL,tg,NULL,NULL
+condition,4030041,Thyroid nodule,NULL,NULL,thyroid disease,NULL,NULL,NULL,thyroid disease,NULL
+condition,4218878,Subjective vertigo,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,374384,Cerebral ischemia,NULL,NULL,cerebrovascular disease,NULL,NULL,NULL,cerebrovascular disease,NULL
+condition,4217557,Simple obesity,NULL,NULL,obesity,NULL,NULL,NULL,obesity,NULL
+condition,4174977,Retinopathy due to diabetes mellitus,NULL,NULL,eye disease,NULL,NULL,NULL,eye disease,NULL
+condition,433760,Autonomic dysreflexia,NULL,NULL,nervous system disorder,NULL,NULL,NULL,nervous system disorder,NULL
+condition,75576,Irritable bowel syndrome,NULL,NULL,gi disease,NULL,NULL,NULL,gi disease,NULL
+condition,4129902,Neoplasm of prostate,NULL,NULL,neoplasm,NULL,NULL,NULL,neoplasm,NULL
+condition,437113,Asthenia,NULL,NULL,mental and behavioural disorder,NULL,NULL,NULL,mental and behavioural disorder,NULL
+condition,201826,Type 2 diabetes mellitus,NULL,NULL,diabetes mellitus,NULL,NULL,NULL,diabetes mellitus,NULL
+condition,197236,Uterine leiomyoma,NULL,NULL,neoplasm,NULL,NULL,NULL,neoplasm,NULL
+condition,4181583,Upper respiratory infection,NULL,NULL,pulmonary disease,NULL,NULL,NULL,pulmonary disease,NULL
+condition,377091,Seizure,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,4105620,Complicated migraine,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,4112023,Occlusion and stenosis of middle cerebral artery,NULL,NULL,cerebrovascular disease,NULL,NULL,NULL,cerebrovascular disease,NULL
+condition,4064161,Cirrhosis of liver,NULL,NULL,liver disease,NULL,NULL,NULL,liver disease,NULL
+condition,380096,Proliferative retinopathy with diabetes mellitus,NULL,NULL,eye disease,NULL,NULL,NULL,eye disease,NULL
+condition,4297400,Mild cognitive disorder,NULL,NULL,mental and behavioural disorder,NULL,NULL,NULL,mental and behavioural disorder,NULL
+condition,4140090,Parkinsonism,NULL,NULL,nervous system disorder,NULL,NULL,NULL,nervous system disorder,NULL
+condition,4304008,Memory impairment,NULL,NULL,mental and behavioural disorder,NULL,NULL,NULL,mental and behavioural disorder,NULL
+condition,198964,Chronic hepatitis C,NULL,NULL,liver disease,NULL,NULL,NULL,liver disease,NULL
+condition,30437,Gastro-esophageal reflux disease with esophagitis,NULL,NULL,gi disease,NULL,NULL,NULL,gi disease,NULL
+condition,441542,Anxiety,NULL,NULL,mental and behavioural disorder,NULL,NULL,NULL,mental and behavioural disorder,NULL
+condition,4101747,Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localized onset,NULL,NULL,nervous system disorder,NULL,NULL,NULL,nervous system disorder,NULL
+condition,256449,Bronchiectasis,NULL,NULL,pulmonary disease,NULL,NULL,NULL,pulmonary disease,NULL
+condition,432586,Mental disorder,NULL,NULL,mental and behavioural disorder,NULL,NULL,NULL,mental and behavioural disorder,NULL
+condition,319041,Orthostatic hypotension,NULL,NULL,hypotension,NULL,NULL,NULL,hypotension,NULL
+condition,441561,Low tension glaucoma,NULL,NULL,eye disease,NULL,NULL,NULL,eye disease,NULL
+condition,4319331,Cerebellar infarction,NULL,NULL,cerebrovascular disease,NULL,NULL,NULL,cerebrovascular disease,NULL
+condition,381295,Senile cataract,NULL,NULL,eye disease,NULL,NULL,NULL,eye disease,NULL
+condition,257907,Disorder of lung,NULL,NULL,pulmonary disease,NULL,NULL,NULL,pulmonary disease,NULL
+condition,437584,Ataxia,NULL,NULL,nervous system disorder,NULL,NULL,NULL,nervous system disorder,NULL
+condition,4322871,Radiating pain,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,4313567,Postnecrotic cirrhosis,NULL,NULL,liver disease,NULL,NULL,NULL,liver disease,NULL
+condition,4029966,Intracranial aneurysm,NULL,NULL,cerebrovascular disease,NULL,NULL,NULL,cerebrovascular disease,NULL
+condition,442615,Carotid artery stenosis,NULL,NULL,cardiovascular disease,NULL,NULL,NULL,cardiovascular disease,NULL
+condition,444100,Mood disorder,NULL,NULL,mental and behavioural disorder,NULL,NULL,NULL,mental and behavioural disorder,NULL
+condition,200962,Primary malignant neoplasm of prostate,NULL,NULL,neoplasm,NULL,NULL,NULL,neoplasm,NULL
+condition,4278830,"Primary degenerative dementia of the Alzheimer type, senile onset, uncomplicated",NULL,NULL,nervous system disorder,NULL,NULL,NULL,nervous system disorder,NULL
+condition,255848,Pneumonia,NULL,NULL,pulmonary disease,NULL,NULL,NULL,pulmonary disease,NULL
+condition,4034681,Vitreous floaters,NULL,NULL,eye disease,NULL,NULL,NULL,eye disease,NULL
+condition,4223659,Fatigue,NULL,NULL,symptom,NULL,NULL,NULL,symptom,NULL
+condition,317893,Paroxysmal supraventricular tachycardia,NULL,NULL,arrhythmia,NULL,NULL,NULL,arrhythmia,NULL
+condition,443387,Malignant tumor of stomach,NULL,NULL,neoplasm,NULL,NULL,NULL,neoplasm,NULL
+condition,4243445,Benign neoplasm of pancreas,NULL,NULL,neoplasm,NULL,NULL,NULL,neoplasm,NULL
+condition,444070,Tachycardia,NULL,NULL,arrhythmia,NULL,NULL,NULL,arrhythmia,NULL
+condition,4108830,Atrial paroxysmal tachycardia,NULL,NULL,arrhythmia,NULL,NULL,NULL,arrhythmia,NULL
+condition,4171269,Atrial tachycardia,NULL,NULL,arrhythmia,NULL,NULL,NULL,arrhythmia,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, telmisartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, carvedilol 3.125 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19018811,"Atenolol 25 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332527,"Amlodipine 5 MG / valsartan 160 MG Oral Tablet, carvedilol 6.25 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Furosemide 40 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346823,"carvedilol, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163312,"Losartan Potassium 100 MG Oral Tablet, Propranolol Hydrochloride 10 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19073094,"Amlodipine 2.5 MG Oral Tablet, olmesartan 40 MG / rosuvastatin 20 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028935,"Bisoprolol Fumarate 2.5 MG Oral Tablet, telmisartan 40 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Propranolol Hydrochloride 10 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332527,"Amlodipine 5 MG / valsartan 160 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1341271,"Amlodipine 5 MG / valsartan 80 MG Oral Tablet, Terazosin 2 MG Oral Tablet",NULL,arb_ccb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,"Amlodipine 5 MG / valsartan 80 MG Oral Tablet, carvedilol 6.25 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19076924,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, eprosartan 600 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet",NULL,acei_arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078106,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078106,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet",NULL,acei_arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19127433,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet",NULL,acei_arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, candesartan cilexetil 16 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet, eprosartan 600 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet",NULL,acei_arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet",NULL,acei_arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"candesartan cilexetil 8 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"candesartan cilexetil 16 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, carvedilol 25 MG Oral Tablet, telmisartan 40 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, telmisartan 40 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022781,"carvedilol 25 MG Oral Tablet, Nifedipine 30 MG Oral Tablet, telmisartan 40 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 2.5 MG Oral Tablet, Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346823,"Amlodipine / Losartan Oral Tablet, carvedilol",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"carvedilol 6.25 MG Oral Tablet, Diltiazem Hydrochloride 30 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"carvedilol 12.5 MG Oral Tablet, carvedilol 6.25 MG Oral Tablet, Diltiazem Hydrochloride 30 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"carvedilol 12.5 MG Oral Tablet, Diltiazem Hydrochloride 30 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022750,"carvedilol 12.5 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, carvedilol 6.25 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1341271,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet, Terazosin 2 MG Oral Tablet",NULL,arb_bb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1341271,"Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet, Terazosin 2 MG Oral Tablet",NULL,arb_du_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"24 HR Diltiazem Hydrochloride 180 MG Extended Release Oral Capsule, Amlodipine 5 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet",NULL,ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1363059,"Diltiazem Hydrochloride 90 MG Oral Tablet, Doxazosin 4 MG Oral Tablet",NULL,ccb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, candesartan cilexetil 16 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, carvedilol, Diltiazem Hydrochloride 90 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, carvedilol, Diltiazem Hydrochloride 90 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Losartan Potassium 100 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332499,"Amlodipine 5 MG / atorvastatin 40 MG Oral Tablet, carvedilol, Diltiazem Hydrochloride 90 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Losartan Potassium 100 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG Oral Tablet, carvedilol, Diltiazem Hydrochloride 90 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet, carvedilol, Diltiazem Hydrochloride 90 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet, carvedilol 12.5 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet, carvedilol 12.5 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Furosemide 40 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"candesartan cilexetil 8 MG Oral Tablet, carvedilol 25 MG Oral Tablet, Furosemide 40 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"carvedilol 12.5 MG Oral Tablet, Furosemide 40 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,"carvedilol 6.25 MG Oral Tablet, Losartan Potassium 100 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 5 MG Oral Tablet, carvedilol 3.125 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 5 MG Oral Tablet, carvedilol 6.25 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"carvedilol 6.25 MG Oral Tablet, Ramipril 2.5 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,acei_arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"carvedilol 6.25 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1334461,"carvedilol 6.25 MG Oral Tablet, Ramipril 2.5 MG Oral Tablet",NULL,acei_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332525,"Amlodipine 10 MG / valsartan 160 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332525,"Amlodipine 10 MG / valsartan 160 MG Oral Tablet, nebivolol 5 MG Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet",NULL,acei_arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332527,"Amlodipine 5 MG / valsartan 160 MG Oral Tablet, eprosartan 600 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19076924,"eprosartan 600 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,"Amlodipine 5 MG / telmisartan 40 MG Oral Tablet, carvedilol 6.25 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163312,"Losartan Potassium 50 MG Oral Tablet, Propranolol Hydrochloride 10 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, telmisartan 80 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, telmisartan 40 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, telmisartan 80 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1341271,"Losartan Potassium 100 MG Oral Tablet, Terazosin 2 MG Oral Tablet",NULL,arb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1341271,"Losartan Potassium 50 MG Oral Tablet, Terazosin 2 MG Oral Tablet",NULL,arb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, candesartan cilexetil 16 MG Oral Tablet, carvedilol 12.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079658,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Furosemide 40 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"Diltiazem Hydrochloride 30 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"Diltiazem Hydrochloride 30 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078106,"Hydrochlorothiazide 25 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Diltiazem Hydrochloride 30 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet, candesartan cilexetil 16 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078106,"Bisoprolol Fumarate 1.25 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079658,"Bisoprolol Fumarate 1.25 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079658,"Bisoprolol Fumarate 1.25 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 1.25 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 1.25 MG Oral Tablet, Olmesartan medoxomil 10 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 1.25 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163312,"Amlodipine / Losartan Oral Tablet, Propranolol Hydrochloride 10 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, valsartan 160 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1334492,"carvedilol 6.25 MG Oral Tablet, Ramipril 5 MG Oral Tablet",NULL,acei_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19096740,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079658,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19102491,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Bisoprolol Fumarate 2.5 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, olmesartan 20 MG / rosuvastatin 10 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40166188,"Bisoprolol Fumarate 2.5 MG Oral Tablet, rosuvastatin 10 MG / telmisartan 80 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40163271,"Amlodipine / Losartan Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet",NULL,acei_arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Atenolol 25 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"carvedilol, Furosemide 40 MG Oral Tablet, Perindopril Erbumine 8 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,acei_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"carvedilol 12.5 MG Oral Tablet, Enalapril Maleate 5 MG Oral Tablet, Furosemide 40 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,acei_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"carvedilol 25 MG Oral Tablet, Furosemide 40 MG Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,acei_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Bisoprolol Fumarate 2.5 MG Oral Tablet, carvedilol 25 MG Oral Tablet, Furosemide 40 MG Oral Tablet, Perindopril Erbumine 4 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,acei_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"carvedilol 25 MG Oral Tablet, Furosemide 40 MG Oral Tablet, Perindopril Erbumine 8 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,acei_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Bisoprolol Fumarate 2.5 MG Oral Tablet, carvedilol 25 MG Oral Tablet, Furosemide 40 MG Oral Tablet, Perindopril Erbumine 8 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,acei_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Bisoprolol Fumarate 5 MG Oral Tablet, candesartan cilexetil 16 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 1.25 MG Oral Tablet, Furosemide 40 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet, Furosemide 40 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, candesartan cilexetil 32 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, candesartan cilexetil 32 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet, candesartan cilexetil 32 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Amlodipine 5 MG Oral Tablet, candesartan cilexetil 32 MG Oral Tablet, Furosemide 40 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19127433,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Amlodipine 5 MG / telmisartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Amlodipine 5 MG / telmisartan 80 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, valsartan 160 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, carvedilol",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19096678,"Bisoprolol Fumarate 2.5 MG Oral Tablet, valsartan 160 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078106,"Amlodipine / Losartan Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Bisoprolol Fumarate 5 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet, Furosemide 40 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Amlodipine 10 MG Oral Tablet, Furosemide 40 MG Oral Tablet, nebivolol 5 MG Oral Tablet, telmisartan 80 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022750,"carvedilol 12.5 MG Oral Tablet, telmisartan 40 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028935,"Bisoprolol Fumarate 5 MG Oral Tablet, Indapamide 1.5 MG, telmisartan 40 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028935,"Bisoprolol Fumarate 5 MG Oral Tablet, telmisartan 40 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028936,"Indapamide 1.5 MG, nebivolol 5 MG Oral Tablet, telmisartan 80 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,"carvedilol 6.25 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332525,"Amlodipine 10 MG / valsartan 160 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19023454,"Amlodipine 10 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet, valsartan 160 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1314008,"Amlodipine 10 MG Oral Tablet, Atenolol 50 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19018811,"Amlodipine 10 MG Oral Tablet, Atenolol 25 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19018811,"Atenolol 25 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19018811,"Amlodipine / Losartan Oral Tablet, Atenolol 25 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19018811,"Atenolol 25 MG Oral Tablet, valsartan 160 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19018811,"Atenolol 25 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet, valsartan 160 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19096678,"Diltiazem Hydrochloride 90 MG Oral Tablet, valsartan 160 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, carvedilol 12.5 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Amlodipine 5 MG / atorvastatin 20 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"Diltiazem Hydrochloride 30 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet",NULL,ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332525,"Amlodipine 10 MG / valsartan 160 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"carvedilol 12.5 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022750,"carvedilol 12.5 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022750,"carvedilol 12.5 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, valsartan 160 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022750,"carvedilol 12.5 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, Propranolol Hydrochloride 10 MG Oral Tablet, valsartan 160 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, Olmesartan medoxomil 40 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332497,"Amlodipine 5 MG / atorvastatin 10 MG Oral Tablet, Olmesartan medoxomil 40 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, carvedilol 12.5 MG Oral Tablet, Hydrochlorothiazide 25 MG / Losartan Potassium 100 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40166188,"Amlodipine 5 MG / telmisartan 40 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1353817,"carvedilol 25 MG Oral Tablet, Felodipine 5 MG, Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, carvedilol 12.5 MG Oral Tablet",NULL,bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Indapamide 1.5 MG, valsartan 160 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Bisoprolol Fumarate 2.5 MG Oral Tablet, candesartan cilexetil 16 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"Furosemide 40 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"candesartan cilexetil 16 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40166188,"Amlodipine 5 MG / telmisartan 80 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974642,"eprosartan 600 MG / Hydrochlorothiazide 12.5 MG Oral Tablet, Nifedipine 60 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19079658,"Amlodipine 5 MG / valsartan 80 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 5 MG / valsartan 80 MG Oral Tablet, Amlodipine 5 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Amlodipine 5 MG / telmisartan 80 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078080,"Hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, telmisartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Olmesartan medoxomil 20 MG Oral Tablet, telmisartan 40 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022948,irbesartan 150 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,candesartan cilexetil 16 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,"carvedilol 6.25 MG Oral Tablet, Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG / telmisartan 40 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Bisoprolol Fumarate 2.5 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"Bisoprolol Fumarate 5 MG Oral Tablet, candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,21141332,"Amlodipine 5 MG / valsartan 80 MG Oral Tablet, Bisoprolol Fumarate 2.5 MG Oral Tablet",NULL,arb_bb_ccb_,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974473,"Diltiazem Hydrochloride 90 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,957136,"carvedilol 6.25 MG Oral Tablet, Furosemide 40 MG Oral Tablet",NULL,bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332525,Amlodipine 10 MG / valsartan 160 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351587,candesartan cilexetil 32 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"Bisoprolol Fumarate 2.5 MG Oral Tablet, candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"Bisoprolol Fumarate 5 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974642,eprosartan 600 MG / Hydrochlorothiazide 12.5 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332527,"Amlodipine 5 MG / valsartan 160 MG Oral Tablet, carvedilol 12.5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974473,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,candesartan cilexetil 8 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022781,"carvedilol 25 MG Oral Tablet, Losartan Potassium 100 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974474,Hydrochlorothiazide 12.5 MG / telmisartan 80 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Amlodipine 2.5 MG Oral Tablet, Bisoprolol Fumarate 1.25 MG Oral Tablet, candesartan cilexetil 16 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"candesartan cilexetil 16 MG Oral Tablet, Nifedipine 30 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG / telmisartan 40 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,"Captopril 12.5 MG Oral Tablet, carvedilol 6.25 MG Oral Tablet",NULL,acei_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 5 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"Bisoprolol Fumarate 2.5 MG Oral Tablet, Bisoprolol Fumarate 5 MG Oral Tablet, candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028936,"Amlodipine 5 MG / telmisartan 40 MG Oral Tablet, telmisartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078106,"Amlodipine 5 MG / telmisartan 40 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022750,"Amlodipine 5 MG / telmisartan 80 MG Oral Tablet, carvedilol 12.5 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,21141332,Amlodipine 5 MG / valsartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974473,Hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, telmisartan 40 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1334492,"carvedilol 3.125 MG Oral Tablet, Ramipril 5 MG Oral Tablet",NULL,acei_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022750,carvedilol 12.5 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19023454,Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028935,"telmisartan 40 MG Oral Tablet, telmisartan 80 MG Oral Tablet",NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346823,"Amlodipine 2.5 MG Oral Tablet, candesartan cilexetil 16 MG Oral Tablet, carvedilol",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1353817,"carvedilol 25 MG Oral Tablet, Felodipine 5 MG, Losartan Potassium 50 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022781,"Amlodipine 5 MG / telmisartan 80 MG Oral Tablet, carvedilol 25 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Amlodipine 5 MG / telmisartan 80 MG Oral Tablet, Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"Bisoprolol Fumarate 2.5 MG Oral Tablet, candesartan cilexetil 16 MG Oral Tablet, Nifedipine 30 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022949,irbesartan 300 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40167849,Amlodipine 5 MG / telmisartan 40 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028935,telmisartan 40 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028935,"Amlodipine 10 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, telmisartan 40 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,valsartan 80 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Bisoprolol Fumarate 5 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346990,carvedilol 3.125 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19096678,valsartan 160 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 5 MG Oral Tablet, Doxazosin 4 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,arb_ccb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Amlodipine 5 MG / telmisartan 80 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Bisoprolol Fumarate 2.5 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Terazosin 2 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,arb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19023453,Hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, carvedilol 6.25 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19028936,telmisartan 80 MG Oral Tablet,NULL,arb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1314008,"Atenolol 50 MG Oral Tablet, Felodipine 5 MG, telmisartan 40 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"candesartan cilexetil 8 MG Oral Tablet, carvedilol 12.5 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"candesartan cilexetil 8 MG Oral Tablet, Propranolol Hydrochloride 10 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332527,Amlodipine 5 MG / valsartan 160 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351583,"candesartan cilexetil 16 MG Oral Tablet, carvedilol 12.5 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, candesartan cilexetil 8 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1334461,"carvedilol 3.125 MG Oral Tablet, Ramipril 2.5 MG Oral Tablet",NULL,acei_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974702,"Amlodipine 5 MG Oral Tablet, candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332525,"Amlodipine 10 MG / valsartan 160 MG Oral Tablet, Spironolactone 25 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022949,"Amlodipine / Losartan Oral Tablet, irbesartan 300 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40167852,Amlodipine 5 MG / telmisartan 80 MG Oral Tablet,NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19101573,"Amlodipine 5 MG / telmisartan 40 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19023454,"Amlodipine 5 MG / Olmesartan medoxomil 40 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332525,"Amlodipine 10 MG / valsartan 160 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet, nebivolol 5 MG Oral Tablet",NULL,arb_bb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19078080,Hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet,NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022948,"Bisoprolol Fumarate 2.5 MG Oral Tablet, irbesartan 150 MG Oral Tablet",NULL,arb_bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1308851,"Amlodipine 2.5 MG Oral Tablet, valsartan 80 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19022749,carvedilol 6.25 MG Oral Tablet,NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974642,"Amlodipine 5 MG Oral Tablet, eprosartan 600 MG / Hydrochlorothiazide 12.5 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,19091217,"Amlodipine 5 MG / Olmesartan medoxomil 20 MG Oral Tablet, Amlodipine 5 MG / telmisartan 40 MG Oral Tablet, Indapamide 1.5 MG",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, Hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet",NULL,arb_ccb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1346990,"carvedilol 3.125 MG Oral Tablet, carvedilol 6.25 MG Oral Tablet",NULL,bb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351559,"candesartan cilexetil 8 MG Oral Tablet, Diltiazem Hydrochloride 90 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,40162878,"Amlodipine 5 MG / telmisartan 80 MG Oral Tablet, Bisoprolol Fumarate 5 MG Oral Tablet",NULL,arb_bb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1332419,"Amlodipine 5 MG Oral Tablet, carvedilol 12.5 MG Oral Tablet, Hydrochlorothiazide 25 MG / Losartan Potassium 100 MG Oral Tablet, Terazosin 2 MG Oral Tablet",NULL,arb_bb_ccb_du_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,974226,"Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet, nebivolol 5 MG Oral Tablet, valsartan 160 MG Oral Tablet",NULL,arb_bb_du,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1328689,"candesartan cilexetil 16 MG Oral Tablet, Diltiazem Hydrochloride 30 MG Oral Tablet",NULL,arb_ccb,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1363059,"Amlodipine 5 MG / valsartan 80 MG Oral Tablet, Doxazosin 4 MG Oral Tablet",NULL,arb_ccb_others,NULL,NULL,NULL,NULL,NULL,NULL
+drug,1351587,"candesartan cilexetil 32 MG Oral Tablet, Hydrochlorothiazide 25 MG Oral Tablet",NULL,arb_du,NULL,NULL,NULL,NULL,NULL,NULL
